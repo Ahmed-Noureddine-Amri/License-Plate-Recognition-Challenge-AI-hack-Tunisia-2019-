@@ -6,5 +6,7 @@ Requirements
  keras 2.2.0
  Common packages such as scikit-learn, numpy and so on.
  
-The model is trained on the MNIST dataset (82*28 pictures)
-Further improvements can be made by chaging the dataset, as the font of the digits dosen't match wich lads to some errors oin recogniton especially for the numbers 7/1 
+The model is trained on the MNIST dataset (28*28 images)
+
+
+Further improvements can be made by chaging the dataset, as the font of the digits(handwritten and  FE-Schrift) dosen't match wich leads to errors in recogniton (most occurences for the numbers 7/1 )
